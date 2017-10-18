@@ -20,7 +20,7 @@ int main()
 
     return 0;
 }
-int czyPierwsza(int a)
+int czyPierwsza(int a) //funkcja pomocnicza
 {
     if(a<2)
         return 0;
